@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="enter_value_in">Enter value in</string>
+    <string name="convert">Convert</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string-array name="spinnerFromOptions">
+        <item name= "degreeRankine">Kelvin (K)</item>
+        <item name= "degreeRankine">Degree Celsius (°C)</item>
+        <item name= "degreeRankine">Degree Fahrenheit (°F)</item>
+        <item name= "degreeRankine">Degree Rankine (°R)</item>
+    </string-array>
+    <string-array name="spinnerToOptions">
+        <item name= "degreeRankine">Kelvin (K)</item>
+        <item name= "degreeRankine">Degree Celsius (°C)</item>
+        <item name= "degreeRankine">Degree Fahrenheit (°F)</item>
+        <item name= "degreeRankine">Degree Rankine (°R)</item>
+    </string-array>
+</resources>
